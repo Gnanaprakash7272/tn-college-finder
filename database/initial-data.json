@@ -1,0 +1,247 @@
+{
+  "districts": [
+    {
+      "districtName": "Chennai",
+      "districtCode": "CHN",
+      "state": "Tamil Nadu",
+      "coordinates": { "latitude": 13.0827, "longitude": 80.2707 }
+    },
+    {
+      "districtName": "Coimbatore",
+      "districtCode": "CBE",
+      "state": "Tamil Nadu",
+      "coordinates": { "latitude": 11.0168, "longitude": 76.9558 }
+    },
+    {
+      "districtName": "Madurai",
+      "districtCode": "MDU",
+      "state": "Tamil Nadu",
+      "coordinates": { "latitude": 9.9252, "longitude": 78.1198 }
+    },
+    {
+      "districtName": "Tiruchirappalli",
+      "districtCode": "TIR",
+      "state": "Tamil Nadu",
+      "coordinates": { "latitude": 10.7905, "longitude": 78.7047 }
+    },
+    {
+      "districtName": "Salem",
+      "districtCode": "SLM",
+      "state": "Tamil Nadu",
+      "coordinates": { "latitude": 11.6645, "longitude": 78.1460 }
+    },
+    {
+      "districtName": "Erode",
+      "districtCode": "ERD",
+      "state": "Tamil Nadu",
+      "coordinates": { "latitude": 11.3410, "longitude": 77.7172 }
+    },
+    {
+      "districtName": "Tiruppur",
+      "districtCode": "TUP",
+      "state": "Tamil Nadu",
+      "coordinates": { "latitude": 11.1085, "longitude": 77.3411 }
+    },
+    {
+      "districtName": "Vellore",
+      "districtCode": "VEL",
+      "state": "Tamil Nadu",
+      "coordinates": { "latitude": 12.9165, "longitude": 79.1325 }
+    },
+    {
+      "districtName": "Thoothukudi",
+      "districtCode": "TKD",
+      "state": "Tamil Nadu",
+      "coordinates": { "latitude": 8.7642, "longitude": 78.1348 }
+    },
+    {
+      "districtName": "Dindigul",
+      "districtCode": "DIG",
+      "state": "Tamil Nadu",
+      "coordinates": { "latitude": 10.3633, "longitude": 77.9800 }
+    }
+  ],
+  "communities": [
+    { "code": "oc", "name": "Open Competition", "description": "General Category" },
+    { "code": "bc", "name": "Backward Class", "description": "Backward Community" },
+    { "code": "bcm", "name": "Backward Class Muslim", "description": "Backward Class Muslim" },
+    { "code": "mbc", "name": "Most Backward Class", "description": "Most Backward Community" },
+    { "code": "sc", "name": "Scheduled Caste", "description": "Scheduled Caste" },
+    { "code": "sca", "name": "Scheduled Caste Arunthathiyar", "description": "SC Arunthathiyar" },
+    { "code": "st", "name": "Scheduled Tribe", "description": "Scheduled Tribe" }
+  ],
+  "courses": [
+    {
+      "courseName": "Computer Science and Engineering",
+      "courseCode": "CSE",
+      "branchCode": "CS",
+      "degree": "B.E.",
+      "duration": 4
+    },
+    {
+      "courseName": "Information Technology",
+      "courseCode": "IT",
+      "branchCode": "IT",
+      "degree": "B.Tech",
+      "duration": 4
+    },
+    {
+      "courseName": "Electronics and Communication Engineering",
+      "courseCode": "ECE",
+      "branchCode": "EC",
+      "degree": "B.E.",
+      "duration": 4
+    },
+    {
+      "courseName": "Electrical and Electronics Engineering",
+      "courseCode": "EEE",
+      "branchCode": "EE",
+      "degree": "B.E.",
+      "duration": 4
+    },
+    {
+      "courseName": "Mechanical Engineering",
+      "courseCode": "MECH",
+      "branchCode": "ME",
+      "degree": "B.E.",
+      "duration": 4
+    },
+    {
+      "courseName": "Civil Engineering",
+      "courseCode": "CIVIL",
+      "branchCode": "CE",
+      "degree": "B.E.",
+      "duration": 4
+    },
+    {
+      "courseName": "Artificial Intelligence and Data Science",
+      "courseCode": "AI&DS",
+      "branchCode": "AI",
+      "degree": "B.Tech",
+      "duration": 4
+    },
+    {
+      "courseName": "Biomedical Engineering",
+      "courseCode": "BME",
+      "branchCode": "BM",
+      "degree": "B.E.",
+      "duration": 4
+    },
+    {
+      "courseName": "Chemical Engineering",
+      "courseCode": "CHEM",
+      "branchCode": "CH",
+      "degree": "B.E.",
+      "duration": 4
+    },
+    {
+      "courseName": "Aeronautical Engineering",
+      "courseCode": "AERO",
+      "branchCode": "AE",
+      "degree": "B.E.",
+      "duration": 4
+    }
+  ],
+  "sampleColleges": [
+    {
+      "collegeName": "Anna University, Chennai",
+      "collegeCode": "AU-CHN",
+      "tneaCode": "0001",
+      "address": {
+        "street": "Sardar Patel Road",
+        "city": "Chennai",
+        "district": "Chennai",
+        "pincode": "600025",
+        "state": "Tamil Nadu",
+        "coordinates": { "latitude": 13.0115, "longitude": 80.2341 }
+      },
+      "contact": {
+        "phone": "044-22357170",
+        "email": "info@annauniv.edu",
+        "website": "https://www.annauniv.edu",
+        "brochureUrl": "https://www.annauniv.edu/brochure.pdf"
+      },
+      "collegeType": "Government",
+      "establishmentYear": 1978,
+      "accreditation": {
+        "nba": {
+          "accredited": true,
+          "courses": ["CSE", "ECE", "MECH", "CIVIL"],
+          "validUntil": "2025-06-30"
+        },
+        "naac": {
+          "grade": "A++",
+          "cgpa": 3.64,
+          "validUntil": "2026-03-15"
+        }
+      },
+      "rankings": {
+        "nirf": {
+          "overallRank": 8,
+          "engineeringRank": 8,
+          "year": 2023
+        }
+      },
+      "infrastructure": {
+        "campusArea": 185,
+        "totalStudents": 15000,
+        "totalFaculty": 1200,
+        "departments": ["Engineering", "Technology", "Science", "Management"],
+        "facilities": ["Library", "Sports", "Hostel", "Lab", "Hospital"]
+      },
+      "affiliations": ["Anna University", "AICTE"],
+      "approvedBy": ["AICTE", "UGC"],
+      "isActive": true
+    },
+    {
+      "collegeName": "PSG College of Technology, Coimbatore",
+      "collegeCode": "PSG-CBE",
+      "tneaCode": "2501",
+      "address": {
+        "street": "Avinashi Road",
+        "city": "Coimbatore",
+        "district": "Coimbatore",
+        "pincode": "641004",
+        "state": "Tamil Nadu",
+        "coordinates": { "latitude": 11.0268, "longitude": 76.9645 }
+      },
+      "contact": {
+        "phone": "0422-2572177",
+        "email": "principal@psgtech.edu",
+        "website": "https://www.psgtech.edu",
+        "brochureUrl": "https://www.psgtech.edu/admissions/brochure.pdf"
+      },
+      "collegeType": "Aided",
+      "establishmentYear": 1951,
+      "accreditation": {
+        "nba": {
+          "accredited": true,
+          "courses": ["CSE", "ECE", "MECH", "CIVIL", "IT"],
+          "validUntil": "2025-06-30"
+        },
+        "naac": {
+          "grade": "A+",
+          "cgpa": 3.52,
+          "validUntil": "2026-03-15"
+        }
+      },
+      "rankings": {
+        "nirf": {
+          "overallRank": 52,
+          "engineeringRank": 48,
+          "year": 2023
+        }
+      },
+      "infrastructure": {
+        "campusArea": 45,
+        "totalStudents": 8000,
+        "totalFaculty": 600,
+        "departments": ["Engineering", "Technology", "Science"],
+        "facilities": ["Library", "Sports", "Hostel", "Lab", "Gym"]
+      },
+      "affiliations": ["Anna University", "AICTE"],
+      "approvedBy": ["AICTE", "UGC"],
+      "isActive": true
+    }
+  ]
+}
