@@ -300,7 +300,7 @@ The application is fully responsive and optimized for:
 ## 📞 Support
 
 For technical support:
-- Email: support@collegefinder.tn
+- Email: gnanaprakash7272@gmail.com
 - GitHub Issues: Create an issue in the repository
 - Documentation: Check the /docs folder
 
